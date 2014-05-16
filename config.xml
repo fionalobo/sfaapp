@@ -6,10 +6,10 @@
         id        = "com.fionalobo.sfaapp"
         version   = "1.0.0">
 
-    <name>My App3</name>
+    <name>SFA App</name>
 
     <description>
-        My Application 3.
+        Sales Force Automation
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
